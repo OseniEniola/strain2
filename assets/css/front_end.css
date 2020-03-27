@@ -126,10 +126,23 @@ html {
   float: left;
 }
 .header .hdr .b_logo img {
-  width: 100px;
-  height: 14vh;
-  border: 2px solid black;
+  width: 120px;
+  height: 60px;
+  border: 0.5px ridge black;
+  border-radius: 7px;
 }
+@keyframes shadow-pulse {
+  0% {
+    box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+  }
+  100% {
+    box-shadow: 0 0 0 5px rgba(189, 57, 57, 0.219);
+  }
+}
+.g_img_hld {
+  animation: shadow-pulse 1s infinite;
+}
+
 .header .hdr .menu {
   width: auto;
   position: absolute;
