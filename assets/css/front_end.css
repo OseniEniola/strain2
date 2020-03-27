@@ -496,7 +496,7 @@ html {
 .section .inner_wrap .left-col .col_photo {
   width: 80%;
   height: 97vh;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
