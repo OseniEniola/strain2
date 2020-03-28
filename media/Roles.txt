@@ -24,3 +24,9 @@ Directors/Producers
 Uduak-Obong Patrick- Director
 Oluwatoyin Adewumi- Executive Producer 
 Benjamin Adeniran- Producer
+
+
+
+ <p> <b><span style="color: red;">STRAIN</span></b>- Procuders- Oluwatoyin Adewumi, Benjamin
+                Abejide Adeniran, Director- Uduak-obong Patrick, STRAIN is a tense movie which uncovers the pain, blame
+                and regrets that occurs when a wrong decision is made out of love.</p>
