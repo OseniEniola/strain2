@@ -865,6 +865,7 @@ textarea {
   color: #fff;
 }
 .cast_hld .cast_det .cast_text {
+  margin-top: 20px;
   position: absolute;
   top: 22vh;
   left: 10%;
@@ -972,6 +973,7 @@ textarea {
   width: 23.2%;
   height: 50vh;
 }
+
 /* .section .inner_wrap .g_img_hld:nth-child(1) {
   width: 30%;
   height: 93vh;
