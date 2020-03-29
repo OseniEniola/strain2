@@ -956,6 +956,7 @@ textarea {
 .g_hld .inner_wrap a {
   display: inline-block;
 }
+
 .section .inner_wrap .g_img_hld {
   float: left;
   position: relative;
@@ -1009,7 +1010,8 @@ textarea {
   margin-top: 3vh;
 } */
 .g_hld .inner_wrap {
-  position: relative;
+  width: 90%;
+  margin-left: 5%;
 }
 .g_btn {
   margin-top: 0;
@@ -1194,7 +1196,7 @@ textarea {
 
   /*BANNER*/
   .banner {
-    width: 100%;
+    width: 50%;
     height: auto;
   }
   .banner .captions {
