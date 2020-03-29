@@ -971,7 +971,7 @@ textarea {
   background-repeat: no-repeat;
 }
 .section .inner_wrap .g_img_hld {
-  width: 23%;
+  width: 22.5%;
   height: 50vh;
 }
 
@@ -1010,8 +1010,9 @@ textarea {
   margin-top: 3vh;
 } */
 .g_hld .inner_wrap {
-  width: 90%;
-  margin-left: 5%;
+  width: 100%;
+  margin-left: 2%;
+  margin-right: 10%;
 }
 .g_btn {
   margin-top: 0;
