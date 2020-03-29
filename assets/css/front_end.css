@@ -1574,7 +1574,7 @@ textarea {
     display: inline-block;
   }
   .section .inner_wrap .g_img_hld {
-    width: 25%;
+    width: 100s%;
     height: 50vh;
   }
   /* .section .inner_wrap .g_img_hld {
