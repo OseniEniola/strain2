@@ -1614,8 +1614,11 @@ textarea {
   .section .inner_wrap .g_img_hld:nth-child(n + 2) {
     margin-top: 3vh;
   } */
+
   .g_hld .inner_wrap {
-    position: relative;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .g_btn {
     margin-top: 30px;
