@@ -129,7 +129,7 @@ html {
   width: 150px;
   height: 70px;
   border-radius: 4px;
-  border: 5px solid red;
+  border: 5px solid white;
 }
 @keyframes shadow-pulse {
   0% {
@@ -572,7 +572,7 @@ html {
   margin-left: 6%;
 }
 .mv_det .mv_row:nth-child(n + 3) {
-  margin-top: 30px;
+  margin-top: 10px;
 }
 .mv_det .mv_row:last-child {
   width: 100%;
@@ -970,7 +970,7 @@ textarea {
   background-repeat: no-repeat;
 }
 .section .inner_wrap .g_img_hld {
-  width: 23.2%;
+  width: 23%;
   height: 50vh;
 }
 
@@ -1193,6 +1193,10 @@ textarea {
   }
 
   /*BANNER*/
+  .banner {
+    width: 100%;
+    height: auto;
+  }
   .banner .captions {
     width: 80%;
     left: 8%;
